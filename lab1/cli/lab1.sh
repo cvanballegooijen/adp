@@ -1,8 +1,5 @@
 #!/bin/bash
 
-## Set required environment variable
-export VAULT_ADDR=<VAULT ADDRESS URL>
-
 ## Enable Transform engine
 vault secrets enable transform
 
