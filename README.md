@@ -1,0 +1,4 @@
+# Advance Data Protection (ADP) 
+HashiCorp Vault's Advanced Data Protection (ADP) module seeks to secure customer data regardless of where it lives in one's infrastructure. Whether it be through disk/volume encryption or two-way transformations such as tokenization, Vault ADP minimizes disruption while providing state-of-the-art data security.
+
+This repo is a companion repo to the Advanced Data Protection blog post, containing Terraform configuration files and shell script using the Vault CLI to configure [HashiCorp Vault Enterprise](https://www.vaultproject.io/docs/enterprise) or [HCP Vault](https://cloud.hashicorp.com/products/vault).
